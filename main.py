@@ -216,7 +216,7 @@ pygame.display.set_icon(pygame.image.load("assets/icon.png"))
 
 window = pygame.display.set_mode((270, 580))
 
-font = pygame.font.SysFont("Segoe UI", 25)
+font = pygame.font.SysFont("Roboto", 25)
 
 #UI elements
 title = pygame.image.load("assets/title.png")
